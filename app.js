@@ -81,4 +81,10 @@ const app = () => {
   }
 }
 
-app()
+document.addEventListener(
+  'DOMContentLoaded',
+  function () {
+    app()
+  },
+  false,
+)
