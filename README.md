@@ -24,3 +24,5 @@
 - 2 типа мелодии
 - 2 типа видеофона
 - Таймер обратного отсчета времени
+
+![calculator](https://romank123.github.io/images/io-meditation.jpg)
